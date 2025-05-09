@@ -2,3 +2,4 @@ python-dotenv
 requests
 tenacity
 pytest
+schedule
